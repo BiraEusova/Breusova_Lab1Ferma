@@ -1,0 +1,8 @@
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\pristupa.pv\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
